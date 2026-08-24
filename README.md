@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# SIH
-=======
 # BhoomiSetu AI (DILRMP 2.0)
 ## Intelligent Land Record Digitization & Validation System
 ### Ministry of Rural Development | Department of Land Resources (DoLR), Government of India
@@ -75,4 +72,4 @@ npm run build
 
 - **Primary**: Ministry of Rural Development, Dept of Land Resources (DoLR).
 - **Secondary**: State Revenue & Survey Departments, GIS Departments, Citizens of India.
->>>>>>> fbbd45a (feat: Intelligent Land Record Digitization and Validation System (BhoomiSetu AI / DILRMP 2.0))
+
